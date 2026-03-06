@@ -1,0 +1,20 @@
+id,name,keywords
+1,Oxide,oxide
+2,Sulphide,sulphide
+3,Carbonate,carbonate
+4,Chloride,chloride
+5,Nitrate,nitrate
+6,Phosphates,phosphates
+7,Sulphates,sulphates
+8,Liquid,liquid
+9,Silicate,silicate
+10,Alloy,alloy
+11,Transitional/Mixed,"transitional, mixed"
+12,Oxide + Sulphide,"oxide + sulphide, oxide+sulphide"
+13,Oxide+Transitional,"oxide + transitional, oxide+transitional"
+14,Sulphide+Transitional,"sulphide + transitional, sulphide+transitional"
+15,Native Element,native element
+16,Tungstate,tungstate
+17,Fluorides,fluorides
+18,Refractory,refractory
+19,Vanadate,vanadate

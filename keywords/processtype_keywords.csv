@@ -1,0 +1,106 @@
+id,name,keywords
+1,Agglomeration,agglomeration
+2,Albion Process,albion
+3,Alluvial (Generic),"alluvial, generic"
+4,Amalgamation,amalgamation
+5,Calcination / Sintering,calcination / sintering
+6,Carbon Absorption-Desorbtion-Refining (ADR),"carbon absorption desorbtion refining, ADR"
+7,Carbonation and Crystallisation,carbonation and crystallisation
+8,Caustic Fusion,caustic fusion
+9,Counter Current Decantation (CCD),"counter current decantation, CCD"
+10,Dense Media / Gravity Separation (DMS),"dense media, gravity separation, DMS"
+11,Desorption Electrolysis,desorption electrolysis
+12,Dry Milling,"dry milling, mill"
+13,Electrolysis,electrolysis
+14,Elution,elution
+15,Evaporation,evaporation
+16,Flotation (Froth),flotation froth
+17,Flotation (Ultra),flotation ultra
+18,Hand Picking / Hand Sorting,hand
+19,High Intensity Grinding (HIG),"high intensity grinding, hig"
+20,High Pressure Grinding Roll (HPGR),"high pressure grinding roll, hpgr"
+21,High Temperature Pressure Oxidation (HPOX),"high temperature pressure oxidation, hpox"
+22,HMS (Chloride),hms chloride
+23,HMS (Sulphate),hms sulphate
+24,Ion Exchange,ion exchange
+25,Magnetic Separation,magnetic separation
+26,Merrill-Crowe,merrill-crowe
+27,Ore Sorting,ore sorting
+28,Panning,panning
+29,Pressure Oxidation (POX),"pressure oxidation, POX"
+30,Resin-in-Pulp (RIP) / Resin-in-Leach (RIL),"resin in pulp, RIP, resin in leach, RIL"
+31,Roasting,roasting
+32,SART,sart
+33,Solvent Extraction-Electrowinning (SX-EW),"solvent extraction-electrowinning, SX-EW"
+34,Spiralling + Cyclones,spiralling cyclones
+35,Vacuum Reduction,vacuum reduction
+36,Washing / Washplant,"washing, washplant"
+37,Wilfley Table,wilfley
+38,Acid Chloride Leach,acid chloride leach
+39,Acid Leach,acid leach
+40,Activox,activox
+41,Agglomerated Fines Heap Leach (AFHL),"agglomerated fines heap leach, afhl"
+42,Agitated Tank Leach (AL),"agitated tank leach, al"
+43,Alkaline Leach,alkaline leach
+44,Ammonia Leach,ammonia leach
+45,Atmospheric Leach,atmospheric leach
+46,Bacterial Oxidation (Biox),"bacterial oxidation, biox"
+47,Bio-Heap Leach (Dump Bioleach),"bio-heap leach, dump bioleach"
+48,Biox / Column Bioleach,"biox, column bioleach"
+49,Carbon-in-Column (CIC),"carbon-in-column, cic"
+50,Carbon-in-Leach (CIL)_,"carbon-in-leach, cil"
+51,Carbon-in-Pulp (CIP),"carbon-in-pulp, cip"
+52,Caron Process,caron process
+53,Catalytic Leaching,catalytic leaching
+54,Column Leach,column leach
+55,Copper Heap Bioleach,copper heap bioleach
+56,Cyanidation (Cyanide Leach /  MacArthur-Forrest Process),"cyanidation, cyanide leach, macarthur-forrest"
+57,DNi Leach Process,dni
+58,Dump Leach,dump leach
+59,Dynamic Leach (Dynamic Heap Leach),"dynamic leach, dynamic heap leach"
+60,Dynamic Leach (On Off Pad),on off pad
+61,Enhanced Pressure Acid Leach (EPAL),"enhanced pressure acid leach, epal"
+62,ExtrEL,extrel
+63,GeoCoat Process,geocoat process
+64,Halurgic Solubility (Hot Leaching),"halurgic solubility, hot leaching"
+65,Heap Leach (HL),"heap leach, hl"
+66,High Pressure Acid Leach (HPAL),"high pressure acid leach, hpal"
+67,HydroCopper Process,hydrocopper process
+68,In-Line Leach (ILR),"in-line leach, ilr"
+69,In-Situ Leach (ISL),"in-situ leach, isl"
+87,Hismelt,hismelt
+88,ISAsmelt,isasmelt
+89,Pyro Smelting (Generic),pyro smelting
+90,PyroPhos,pyrophos
+91,Reverbatory Smelting,reverbatory smelting
+70,Leaching (Generic),"leaching, leach"
+71,LPF (Leach-Precipitation-Flotation),"lpf, leach precipitation flotation"
+72,Pressure Acid Leach (PAL),"pressure acid leach, pal"
+73,Pressure Leach (SX-EW),pressure leach
+74,Side Slope Leaching,side slope leaching
+75,Subsurface Leaching (SSL),"subsurface leaching, ssl"
+76,Tank Leach,tank leach
+77,Thiosulphate Heap Leaching,thiosulphate heap leaching
+78,Thiourea Leaching,thiourea leaching
+79,Vat Leach,vat leach
+80,AlloyStream,alloystream
+81,Blast Furnace (Pyro) Smelting,"blast furnace, pyro"
+82,Chlorination (Kroll Process),"chlorination, kroll"
+83,Chlorination (Turco Process),turco
+84,Electric Arc (Pyro) Smelting,electric arc
+85,Electrolytic (Hall-Heroult) Smelting,"electrolytic smelting, hall-heroult"
+86,Flash Smelting,flash
+92,Rotary Furnace Smelting,rotary furnace
+93,SiroSmelt,sirosmelt
+94,Thermal Reduction Smelting (Incl Pidgeon Process),"thermal reduction, incl pidgeon"
+95,Bayer Process,bayer
+96,Betterton-Kroll Process (ASARCO Process),"betterton kroll, asarco"
+97,Carbonyl Refining (Mond Process),"carbonyl, mond"
+98,CESL,cesl
+99,Electrolytic Refining,electrolytic refining
+100,Fire Refining,fire
+101,Matte Chloride Lech Electrowinning (MCLE),"matte chloride lech electrowinning, mcle"
+102,Parkes Process,parkes
+103,Sherritt Process,sherritt
+104,Whole Ore Leach,whole ore leach
+105,Direct Lithium Extraction (DLE),"direct lithium extraction, dle"

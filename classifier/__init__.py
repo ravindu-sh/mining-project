@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 
 tonnage_keywords = {
     "tonnage",
@@ -89,16 +90,13 @@ keyword_set2 = list(
     | prov_prob_keywords
 )
 
+# print(keyword_set1)
+# print(keyword_set2)
+
 
 def is_keyword_in_text(keywords: list, text: str) -> bool:
-    for keyword in keywords:
-        if keyword in text:
-            return True
-    return False
-
-
-print(keyword_set1)
-print(keyword_set2)
+    pattern = r"\b(?:" + "|".join(re.escape(kw) for kw in keywords) + r")\b"
+    return re.search(pattern, text) is not None
 
 
 # TODO: optimize with dynamic programming and regex
