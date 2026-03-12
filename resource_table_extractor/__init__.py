@@ -197,7 +197,18 @@ def matches_to_df(matches: list[tuple[str, str, int]]) -> pd.DataFrame:
 
 
 def parse_table(df: pd.DataFrame):
-    out_df = pd.DataFrame(columns=["value"])
+    out_df = pd.DataFrame(
+        columns=[
+            "value",
+            "metric",
+            "category",
+            "commodity",
+            "measurement",
+            "minetype",
+            "oretype",
+            "processtype",
+        ]
+    )
     rows, cols = df.shape
     for i in range(rows):
         for j in range(cols):

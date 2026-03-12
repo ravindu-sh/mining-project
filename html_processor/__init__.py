@@ -75,7 +75,7 @@ def _tables_to_text(body: Tag | bs):
 
 def _to_text(node: Tag | PageElement | bs, preserved_tags: set[str] = set()):
     if isinstance(node, NavigableString):
-        return node.strip()
+        return node.strip() + "."
     if isinstance(node, Tag):
         if node.name in preserved_tags:
             return f"<{node.name}>{''.join(_to_text(child, preserved_tags) for child in node.children)}</{node.name}>"
